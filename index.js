@@ -18,4 +18,4 @@ function longTimeout(func, time) {
     }, maxTime);
 }
 
-export default longTimeout;
+module.exports = longTimeout;
