@@ -9,7 +9,6 @@ function longTimeout(func, time) {
     }
 
     setTimeout(() => {
-        console.log("Getting there...");
         if(timeLeft > maxTime) {
             longTimeout(func, timeLeft); // if time for next timeout is still too large for a normal timeout
         } else {
