@@ -1,6 +1,6 @@
 {
   "name": "@stranothus/patience",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lets timeouts be set for greater than the 2147483647 millisecond JS limit",
   "main": "index.js",
   "scripts": {
