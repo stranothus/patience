@@ -16,5 +16,8 @@
   ],
   "author": "Quinn Gibson",
   "license": "MIT",
-  "repository": "@stranothus/patience"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stranothus/patience.git"
+  }
 }
